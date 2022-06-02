@@ -1,0 +1,4 @@
+- 👋 Hi, I’m AJ Matise (@AJ-Matise)
+- I am a 16 year old entreprenuer that uses python and java script to automate aspects of my work. 
+- I own @starters_square and @Atomic_ACO which focus on providing services for the sneaker reselling community.
+- You can reach me by emailing me: aj@reeflabs.io, I'm happy to discuss anything!
